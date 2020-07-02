@@ -87,6 +87,6 @@ outputs:
   fin_fin:
     path: TxtInOut/fin.fin
     format: fin
-github_repo_url: https://github.com/sirspock/swat_forecast.git
+github_repo_url: https://github.com/sirspock/swat_forecast_dt.git
 version: 20.7.2
 mint_component_url: https://raw.githubusercontent.com/sirspock/swat_forecast/master/mint_component.zip
